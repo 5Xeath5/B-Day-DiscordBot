@@ -6,7 +6,7 @@ import hikari
 import lightbulb
 from lightbulb.ext import tasks
 
-bot = lightbulb.BotApp(token='OTcyNjU4OTk0NTQxODkxNjM0.GiKwp-.fVAwD70OtZ6Y7-WneQO8XLWMObMa_p_oKK6Pb8', prefix= "!", intents = hikari.Intents.ALL)
+bot = lightbulb.BotApp(token='Your Bots Token', prefix= "!", intents = hikari.Intents.ALL)
 Time = localtime(time())
 
 gif_list = ['https://c.tenor.com/Wgd0wN0SJOwAAAAC/happy-birthday-to-you-spreading-confetti.gif', 'https://c.tenor.com/ol9MSbL43VgAAAAC/happy-birthday.gif', 
